@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "Stefan C. A. Werwitzke",
+    "label": "Mechanical Engineer Student / Programmer",
+    "picture": "./picture.jpg",
+    "email": "scawdev@gmail.com",
+    "phone": "+49 171 9142344",
+    "website": "http://scawdev.com",
+    "summary": "A summary of John Doe...",
+    "location": {
+      "address": "Kaiserstraße",
+      "postalCode": "76133",
+      "city": "Karlsruhe",
+      "countryCode": "DE",
+      "region": "Baden Wurtenberg"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "john",
+      "url": "http://twitter.com/john"
+    }]
+  },
+  "work": [{
+    "company": "DLR - Deutschen Zentrums für Luft- und Raumfahrt",
+    "position": "Intern",
+    "website": "http://dlr.de",
+    "summary": "Description...",
+    "highlights": [
+      ""
+    ]
+  }],
+  "education": [{
+    "institution": "INSA de Lyon",
+    "area": "Genie Mechanique de Conception",
+    "studyType": "Bachelor",
+    "courses": [
+    ]
+  },
+  {
+    "institution": "INSA de Lyon",
+    "area": "Genie Mechanique de Conception",
+    "studyType": "Master",
+    "courses": [
+    ]
+  },
+  {
+    "institution": "KIT - Karlsruher Institut für Technologie",
+    "area": "Maschinenbau",
+    "studyType": "Master",
+    "courses": [
+    ]
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "90",
+    "keywords": [
+      "React",
+      "Javascript",
+      "Redux"
+    ]
+  },
+  {
+    "name": "Backend",
+    "level": "85",
+    "keywords": [
+      "Linux",
+      "Node.js",
+      "Amazon",
+      "Heroku"
+    ]
+  },
+  {
+    "name": "App Development",
+    "level": "80",
+    "keywords": [
+      "Android",
+      "Java",
+      "React Native",
+      "Unity"
+    ]
+  },
+  {
+    "name": "Database",
+    "level": "70",
+    "keywords": [
+      "MongoDB",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Game Development",
+    "level": "90",
+    "keywords": [
+      "Unity",
+      "C#",
+      "Libgdx",
+      "Java"
+    ]
+  }],
+  "languages": [
+      {
+          "name": "Portuguese",
+          "level": "Native speaker"
+      },
+      {
+          "name": "Frech",
+          "level": "C2"
+      },
+      {
+          "name": "English",
+          "level": "C2"
+      },
+      {
+          "name": "German",
+          "level": "C1"
+      },
+      {
+        "name": "Spanish",
+        "level": "B1"
+      }
+    ],
+  "interests": [{
+    "name": "Skiing",
+    "keywords": [
+      "Powder",
+      "Freedom"
+    ]
+  },
+  {
+    "name": "Hacking",
+    "keywords": [
+      "Challenging"
+    ]
+  },{
+    "name": "Cooking",
+    "keywords": [
+      "Internation Cuisine",
+      "The Tasty Chemistry"
+    ]
+  },{
+    "name": "Rocketry",
+    "keywords": [
+      "3, 2, 1",
+      "Reaching High"
+    ]
+  }]
+}
