@@ -4,12 +4,20 @@
   "private": true,
   "homepage": "https://stefanwerw.github.io/cv",
   "dependencies": {
+    "css-loader": "^0.28.7",
+    "file-loader": "^1.1.5",
     "gh-pages": "^1.2.0",
+    "prop-types": "^15.6.0",
     "react": "^15.0.0",
-    "react-awesome-resume": "^0.1.0",
     "react-dom": "^15.0.0",
+    "react-markdown": "^2.5.0",
+    "react-router-dom": "^4.2.2",
     "react-scripts": "1.1.4",
-    "semantic-ui-css": "^2.3.3"
+    "semantic-ui-css": "^2.3.3",
+    "semantic-ui-react": "^0.74.2",
+    "shortid": "^2.2.8",
+    "style-loader": "^0.19.0",
+    "webpack": "^3.6.0"
   },
   "scripts": {
     "predeploy": "npm run build",

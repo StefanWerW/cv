@@ -33,6 +33,7 @@
     "institution": "INSA de Lyon",
     "area": "Génie Mechanique de Conception",
     "studyType": "Bachelor",
+    "status": "Concluded",
     "courses": [
     ]
   },
@@ -40,6 +41,7 @@
     "institution": "INSA de Lyon",
     "area": "Génie Mechanique de Conception",
     "studyType": "Master",
+    "status": "Ongoing",
     "courses": [
     ]
   },
@@ -47,6 +49,7 @@
     "institution": "KIT - Karlsruher Institut für Technologie",
     "area": "Maschinenbau",
     "studyType": "Master",
+    "status": "Ongoing",
     "courses": [
     ]
   }],
@@ -95,6 +98,14 @@
       "C#",
       "Libgdx",
       "Java"
+    ]
+  },
+  {
+    "name": "Fast Prototyping",
+    "level": "85",
+    "keywords": [
+      "Node.js",
+      "Python"
     ]
   }],
   "languages": [
