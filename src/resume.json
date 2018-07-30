@@ -131,28 +131,23 @@
       }
     ],
   "interests": [{
-    "name": "Skiing",
+    "name": "Sports",
     "keywords": [
-      "Powder",
-      "Freedom"
+      "Skiing: The freedom and the adrenaline of skiing is something unique to me",
+      "Golf: Golf forces me to forget the world, calm down, concentrate and focus in one single point"
     ]
   },
   {
-    "name": "Hacking",
+    "name": "Tech",
     "keywords": [
-      "Challenging"
+      "Hacking: The challenge to make stuff work how they were not meant to",
+      "Rocketry: Since I was a little boy, I used to project, build and launch small amateur rockets with my brother",
+      "Coding: I view coding as a form of art. I can think of something, create, and see it working"
     ]
   },{
-    "name": "Cooking",
+    "name": "Leisure",
     "keywords": [
-      "Internation Cuisine",
-      "The Tasty Chemistry"
-    ]
-  },{
-    "name": "Rocketry",
-    "keywords": [
-      "3, 2, 1",
-      "Reaching High"
+      "Cooking: Experiments were always fascinating to me, and cooking it's the tasty chemistry"
     ]
   }]
 }
